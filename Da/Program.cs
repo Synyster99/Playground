@@ -8,10 +8,11 @@ namespace Da
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello Github");
             Console.WriteLine("Jimmy");
+            Console.WriteLine("Timmy");
         }
     }
 }
