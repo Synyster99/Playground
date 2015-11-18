@@ -13,6 +13,8 @@ namespace Da
             Console.WriteLine("Hello Github");
             Console.WriteLine("Jimmy");
             Console.WriteLine("Timmy");
-        }
+
+            Console.ReadKey();
+        } 
     }
 }
